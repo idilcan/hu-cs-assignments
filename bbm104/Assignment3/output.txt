@@ -1,0 +1,23 @@
+ERROR : Customer 234 cannot be added. It exist.
+ERROR : Customer 14 cannot be deleted. It does not exist.
+ERROR : Order 10 cannot be created . It does exist.
+AmericanPan pizza added to order 10
+Drink added to order 10
+Paycheck to order 10
+	AmericanPan Salami Soudjouk Onion 13$
+	AmericanPan 5$
+	AmericanPan Salami Soudjouk Onion 13$
+	SoftDrink 2$
+	Total: 33$
+Neapolitan pizza added to order 3
+AmericanPan pizza added to order 4
+List Customers:
+234 a b 123-4567890
+13 Ali Dincer 000-0000000
+88 Antonio Giovanni 568-8964142
+27 Emit Brown 234-3456789
+21 Hasan Erdal 256-3456789
+45 Hatice AK 568-8969746
+5 Idil Can 000-0000000
+12 John Smith 312-4567890
+33 sampleName sampleSurname 234-5677896

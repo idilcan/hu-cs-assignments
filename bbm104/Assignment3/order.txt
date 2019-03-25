@@ -1,0 +1,18 @@
+Order: 1 12
+Neapolitan Salami Soudjouk
+AmericanPan Salami Soudjouk Onion
+AmericanPan
+Order: 2 27
+AmericanPan Salami
+AmericanPan Onion
+Neapolitan Soudjouk
+Order: 3 45
+Neapolitan Onion
+Neapolitan
+Order: 4 21
+AmericanPan
+AmericanPan Salami Soudjouk Onion
+Order: 10 234
+AmericanPan Salami Soudjouk Onion
+AmericanPan
+SoftDrink

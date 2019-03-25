@@ -1,0 +1,9 @@
+addcustomer 234 a b 123-4567890 abcd ef gh ijklmn o prstu vy z
+removecustomer 14
+createorder 10 234
+addpizza 10 Americanpan Salami Soudjouk Onion
+adddrink 10
+paycheck 10
+addpizza 3 Neapolitan
+addpizza 4 Americanpan Salami Soudjouk Onion
+List customer
